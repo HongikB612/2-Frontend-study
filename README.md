@@ -12,7 +12,7 @@ React를 바로 다루지 않고 Vanilla JS만을 사용해 과제를 진행해 
 
 ## 과제
 
-Vanilla JS를 이용해 [예시 화면]([https://react-todo-16th-kongnayeon.vercel.app/)과 같은 투두리스트를 만들어 봅니다.
+Vanilla JS를 이용해 [예시 화면](https://react-todo-16th-kongnayeon.vercel.app/) 과 같은 투두리스트를 만들어 봅니다.
 
 
 ## 마감 기한
