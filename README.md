@@ -1,7 +1,5 @@
 # 4주차: ReactJS
 
----
-
 안녕하세요 프론트엔드 리드 **강나연**, **홍서현**입니다.
 
 이번 주차 과제는 지난 주차에 만들어 본 Vanilla todo를 React로 리팩토링하는 과제입니다.
@@ -16,7 +14,7 @@
 
 React를 이용해 지난 주차의 과제를 리팩토링 해 봅니다.
 
-https://react-todo-16th-kongnayeon.vercel.app/
+[과제 예시](https://react-todo-16th-kongnayeon.vercel.app/)
 
 ## 마감 기한
 
@@ -24,26 +22,15 @@ https://react-todo-16th-kongnayeon.vercel.app/
 
 ## 참고 자료
 
-- CRA
+- [CRA](https://create-react-app.dev/docs/getting-started/)
 
-https://create-react-app.dev/docs/getting-started/
+- [React](https://ko.legacy.reactjs.org/docs/hello-world.html)
 
-- React
+- [Styled-Components](https://styled-components.com/)
 
-https://ko.legacy.reactjs.org/docs/hello-world.html
+- [useState](https://ko.legacy.reactjs.org/docs/hooks-state.html)
 
-- Styled-Components
+- [useEffect](https://legacy.reactjs.org/docs/hooks-effect.html)
 
-https://styled-components.com/
+- [코딩 컨벤션](https://ui.toast.com/fe-guide/ko_CODING-CONVENTION)
 
-- useState
-
-https://ko.legacy.reactjs.org/docs/hooks-state.html
-
-- useEffect
-
-https://legacy.reactjs.org/docs/hooks-effect.html
-
-- 코딩 컨벤션
-
-https://ui.toast.com/fe-guide/ko_CODING-CONVENTION
